@@ -1,0 +1,2 @@
+the node modules file contains all the dependencies and libraries installed in the app.
+JSON is passed to nodejs using a middleware
